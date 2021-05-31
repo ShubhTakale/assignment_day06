@@ -1,0 +1,24 @@
+{
+  "resources": [
+    {
+      "name": "Users",
+      "explanation": null,
+      "examples": [
+        {
+          "description": "Creating user",
+          "link": "users/creating_user.json",
+          "groups": "all",
+          "route": "/users",
+          "method": "post"
+        },
+        {
+          "description": "Listing users",
+          "link": "users/listing_users.json",
+          "groups": "all",
+          "route": "/users",
+          "method": "get"
+        }
+      ]
+    }
+  ]
+}
